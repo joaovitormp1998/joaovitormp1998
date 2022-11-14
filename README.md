@@ -15,9 +15,7 @@ Hi 👋, I'm João Vitor M Nascimento
  </a> <a target="_blank" href="mailto:monsoresjoaovitor@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">
  </a>
-
----
-  ---
+- <a href="tel:+5524981389459">:phone: (24) 981389459</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -49,9 +47,9 @@ Hi 👋, I'm João Vitor M Nascimento
   ---
 
 ### :fire: Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitormp1998&layout=compact&theme=vision-friendly-dark)](https://github.com/Joaovitor1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormp1998&layout=compact&theme=vision-friendly-dark)](https://github.com/Joaovitor1998/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joaovitormp1998&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaovitormp1998&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **joaovitormp1998/joaovitormp1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
