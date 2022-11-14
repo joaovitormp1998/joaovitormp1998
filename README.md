@@ -1,10 +1,24 @@
 Hi 👋, I'm João Vitor M Nascimento
 
-<div align="center">
-  <a href="https://github.com/joaovitor1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitormp1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormp1998&layout=compact&langs_count=7&theme=dark"/>
+---
+
+<div id="about-me">
+	<h1>About me</h1>
 </div>
+
+- :book:Software Engineer at Universidade de Vassouras 
+- :heart: Interested in developing FullStack
+- :seedling: ''
+- :dash: ''
+- :mailbox: Contact me: <a target="_blank" href="https://www.linkedin.com/in/joao-vitor-monsores-do-nascimento-956340143">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white">
+ </a> <a target="_blank" href="mailto:monsoresjoaovitor@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">
+ </a>
+
+---
+  ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <!--Java-->
@@ -32,6 +46,13 @@ Hi 👋, I'm João Vitor M Nascimento
  </div>
 
 ---
+  ---
+
+### :fire: Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitormp1998&layout=compact&theme=vision-friendly-dark)](https://github.com/Joaovitor1998/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joaovitormp1998&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **joaovitormp1998/joaovitormp1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
