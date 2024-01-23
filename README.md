@@ -15,7 +15,7 @@ Hi 👋, I'm João Vitor M Nascimento
  </a> <a target="_blank" href="mailto:monsoresjoaovitor@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">
  </a>
--:phone: <a target="_blank" href="tel:+5524981389459">Clique aqui para ligar para (24) 98138-9459</a>
+ :iphone: <a target="_blank" href="https://wa.me/5524981389459">Clique aqui para enviar mensagem pelo WhatsApp</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
