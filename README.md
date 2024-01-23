@@ -7,6 +7,7 @@
 - :dash: Apaixonado por resolver problemas e criar coisas novas.
 - :mailbox: **Contato:**
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-monsores-do-nascimento-956340143)
+  - [![Outlook](https://img.shields.io/badge/Outlook-blue?logo=Microsoft-Outlook&logoColor=white)](mailto:joaovitormonsores@hotmail.com)
   - [![Gmail](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white)](mailto:monsoresjoaovitor@gmail.com)
   - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5524981389459)
 
