@@ -8,7 +8,7 @@
 - :mailbox: **Contato:**
   - [LinkedIn](https://www.linkedin.com/in/joao-vitor-monsores-do-nascimento-956340143) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)
   - [Gmail](mailto:monsoresjoaovitor@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white)
-  - :iphone: [WhatsApp](https://wa.me/5524981389459)
+  - [WhatsApp](https://wa.me/5524981389459)     ![Wathsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white).
 
 ## Linguagens e Ferramentas
 - ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) Java
