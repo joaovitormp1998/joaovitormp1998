@@ -15,5 +15,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40">
 
 ## Estatísticas
+
+## Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormp1998&layout=compact&theme=vision-friendly-dark)
+
+## Streak (Sequência de Contribuições)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaovitormp1998&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+## Estatísticas Gerais
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=joaovitormp1998&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
