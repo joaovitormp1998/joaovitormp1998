@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 📘 Sou Engenheiro de Software na Universidade de Vassouras.
+- 📘 Graduado em  Engenheiro de Software pela Universidade de Vassouras.
 - :heart: Interessado em desenvolvimento FullStack.
 - :seedling: Aprendendo constantemente.
 - :dash: Apaixonado por resolver problemas e criar coisas novas.
